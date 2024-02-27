@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "superbirmodel"
+  },
+  {
+    "name": "muthusbirfield",
+    "fieldId": "muthusbirfield",
+    "modelId": "superbirmodel",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
